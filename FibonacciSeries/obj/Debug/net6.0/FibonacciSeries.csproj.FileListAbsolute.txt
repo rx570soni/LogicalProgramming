@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.exe
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.deps.json
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.runtimeconfig.json
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.dll
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\bin\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.AssemblyInfo.cs
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.dll
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\refint\FibonacciSeries.dll
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.pdb
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\FibonacciSeries.genruntimeconfig.cache
+C:\Users\asus\Desktop\LogicalProgramming\FibonacciSeries\obj\Debug\net6.0\ref\FibonacciSeries.dll

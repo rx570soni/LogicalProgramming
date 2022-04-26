@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\bin\Debug\net6.0\PerfectNO.exe
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\bin\Debug\net6.0\PerfectNO.deps.json
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\bin\Debug\net6.0\PerfectNO.runtimeconfig.json
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\bin\Debug\net6.0\PerfectNO.dll
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\bin\Debug\net6.0\PerfectNO.pdb
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.AssemblyInfo.cs
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.dll
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\refint\PerfectNO.dll
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.pdb
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\PerfectNO.genruntimeconfig.cache
+C:\Users\asus\Desktop\LogicalProgramming\PerfectNO\obj\Debug\net6.0\ref\PerfectNO.dll

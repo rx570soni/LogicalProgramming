@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\bin\Debug\net6.0\PrimeNo.exe
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\bin\Debug\net6.0\PrimeNo.deps.json
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\bin\Debug\net6.0\PrimeNo.runtimeconfig.json
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\bin\Debug\net6.0\PrimeNo.dll
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\bin\Debug\net6.0\PrimeNo.pdb
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.AssemblyInfo.cs
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.dll
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\refint\PrimeNo.dll
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.pdb
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\PrimeNo.genruntimeconfig.cache
+C:\Users\asus\Desktop\LogicalProgramming\PrimeNo\obj\Debug\net6.0\ref\PrimeNo.dll

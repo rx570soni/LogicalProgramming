@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.AssemblyInfo.cs
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\bin\Debug\net6.0\CouponNo.exe
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\bin\Debug\net6.0\CouponNo.deps.json
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\bin\Debug\net6.0\CouponNo.runtimeconfig.json
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\bin\Debug\net6.0\CouponNo.dll
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\bin\Debug\net6.0\CouponNo.pdb
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.dll
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\refint\CouponNo.dll
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.pdb
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\CouponNo.genruntimeconfig.cache
+C:\Users\asus\Desktop\LogicalProgramming\CouponNo\obj\Debug\net6.0\ref\CouponNo.dll

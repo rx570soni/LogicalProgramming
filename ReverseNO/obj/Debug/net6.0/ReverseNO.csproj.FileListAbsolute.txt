@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\bin\Debug\net6.0\ReverseNO.exe
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\bin\Debug\net6.0\ReverseNO.deps.json
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\bin\Debug\net6.0\ReverseNO.runtimeconfig.json
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\bin\Debug\net6.0\ReverseNO.dll
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\bin\Debug\net6.0\ReverseNO.pdb
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.AssemblyInfo.cs
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.dll
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\refint\ReverseNO.dll
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.pdb
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ReverseNO.genruntimeconfig.cache
+C:\Users\asus\Desktop\LogicalProgramming\ReverseNO\obj\Debug\net6.0\ref\ReverseNO.dll
